@@ -37,7 +37,7 @@ export default function Home() {
                           Hi I'm Lee
                       </h2>
                       <h3 className={"text-2xl py-2"}>I'm a healthcare professional turned tech enthusiast</h3>
-                      <p className={"text-xl py-2 leading-8 text-gray-800"}>I'm on a journey to make this world a better place through AI @SyntifyAI.com & @Medvenix.com</p>
+                      <p className={"text-xl py-2 leading-8 text-gray-800"}>I'm on a journey to make this world a better place through Tech &AI @SyntifyAI.com & @Medvenix.com</p>
                       <p className={"text-xl py-2 leading-8 text-gray-800"}>Let's connect!</p>
 
                   </div>
